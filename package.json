@@ -5,6 +5,7 @@
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "web-start": "node ./components/server.js "
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
